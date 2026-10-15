@@ -1,0 +1,40 @@
+ORDER CHECK: 224 groups in the main list, 0 violations
+
+@f3 c.1 Jun Alexandrie E->I hdr=-
+rien de nouveau ce matin les choses vont bien JE TE EM BRA SE au revoir
+
+@f5 3 Jun Novare E->I hdr=-
+[865] [442] [163] [824] [204] [543] [225] j ai jeté trois ponts sur le tessin j ai un corps d armée sur la rive gauche les autrichiens sont en pleine retraite il y a eu un combat aujourd hui pendant que j y étais devant la tête de pont cela n a pas duré longtemps et chose singulière le général auger a pris un canon à l ennemi je rentre bien fatigué mais bien portant il y a tout au plus aujourd hui quatre ou cinq tués et une vingtaine de blessés au revoir
+
+@f9 9 Jun Milan E->I hdr=-
+aujourd hui te deum au dôme enthousiasme extraordinaire évêque officiant la garde impériale formait la haie EN SORTANT [85] AVEC LE ROI TOUS LES PRÊ TRÈS ME ONT BAI SE LES MAIN LES FE M MES SE AGE NO U IL LAIENT LES HOMMES ÉTAIT EX AL TES AU DEL À DE TOUTE EXPR ES SION TOUS LES TROUPES ÉTAIT COU VER TES DE FL EURS MAIS NOUS AVONS DE LA PEINE À TROUV ER DU PAIN
+
+@f15 16 Jun Chiari E->I hdr=753
+<hdr 753> quartier impérial de covo 16 juin 1859 LA ARMÉE AURA PASSÉ AUJOURD'HUI LE O G LI O SANS RÉS IS TAN CE NOUS SUI VONS LA ARMÉE AUTRICHIENʒ PAS À PAS JE RE CUEILLE PARTOUT DES DO LE ANCES RELATIVES AUX EXACT IONS COMMISES PAR ENNEMI je vais bien au revoir
+
+@f17 17 Jun Travagliato E->I hdr=1098
+<hdr 1098> je couche ce soir à travagliato NOUS ESP ÈRE ONS UNE MAIN SUR CHI E SE MAIS LE ENNEMI PARAÎT DÉCI DE MENT SE RE TIR ER DER RIE RE LE MIN CI O l état moral et physique de l armée est excellent au revoir
+
+@f18 18 Jun Brescia E->I hdr=504
+<hdr 504> l armée est arrivée à brescia nous ne savons pas encore SI LES AUTRICHIENʒ DÉFEND RONT LES POSI TION DE LO NA TO ET DE CAS TI GL I ON tout va bien au revoir
+
+@f19 19 Jun Brescia E->I hdr=302
+<hdr 302> je suis bien PEINE au milieu de mes travaux d avoir à RÉPOND RE à toutes les [1197] T TE [1250] [666] DE LA DIPLOM AT IE JE MAIN TIENS LE PA PE À ROMEʒ AVEC MON ARMÉE JE NE ME ME LE EN RIEN DU RESTE DE SES ÉTA LE ROI DE SARDAIGNEʒ n accepte pas LA DI C TA [1216] RE DES LÉG ATIONS tout ce qu on dit DU PIÉMONTʒ EST FAUX LES PEUPLES ME CONTENT SE INSUR GENT DES QUE LA FOR CE MATÉRIELLE s éloigne d eux sans qu il y ait besoin de chercher UNE CAUSE SE ÉTRANGÈ RE à amouvement
+
+@f27 23 Jun StCloud I->E hdr=-
+JE SUIS DES OL LE DE VOUS AVOIR FAIT DE LA PEINE CE NE ÉTAIT PAS MON INTENTION NE VOUS INQUIÉT Z PAS DU PETIT IL VA À MER VEILLE j écris aujourd hui par la poste
+
+@f29 23 Jun Montechiaro E->I hdr=163-455
+<hdr 163> <hdr 455> j ai reçu trois lettres de vous aujourd hui LA LONGUE À CONSOLÉ LA PEINE QUE LES AUT RE ME ONT FAIT .ʒ J'AI BRÛ LE CE MAT IN CELLE QUE JE VOUS AV AIS RÉPOND DU PRINCE ON EST [735] IL FAUX Y REGARD ER À DEUX FOIS AVANT DE FAIRE DE LA PEINE À CEUX QUI AI ME dites au maréchal randon de mettre DES EXTRA IT DES RAPPORTS DE MA GEN TA DANS JOURNAL MILITAIRE LE [633] [85] EST QUELQUES NOMINATIONS DES OFFICIERS [296] [1142] [1203] MEN TION NE .ʒ JE SUIS INQUIÉT DE LA SANTÉ DE NOTRE FILS DITES MOI FRAN CHE MENT COMMENT IL EST .ʒ DE CO T TE ÉTAIT DE SERVICE HIER IL SE PORT AIT TRÈS BIEN IL A COU CHE À MA PORT ET À MI NU IT AU MOMENT OÙ ON LUI AP PORT AIT UNE DÉPÊCHE IL EST MORT SUB ITE MENT .ʒ
+
+@f30 24 Jun StCloud I->E hdr=-
+tout va bien ici LE PETIT VA À MER VEILLE j attends de vos nouvelles avec bien de l impatience LA MER DE DE [228] T TE DEMANDE LE CORPS DU [565] ET SON FILS LE [162z] LE [1046] DITES HAR AS DE FA TI GUE
+
+@f32 24 Jun Cavriana E->I hdr=163-725
+<hdr 163> <hdr 725> grande bataille et grande victoire toute l armée autrichienne a donné ligne de bataille cinq lieues enlevé toutes les positions pris beaucoup de canons de drapeaux et de prisonniers PERTES DE [274] SANS [163] [1142] SE autres détails impossibles la bataille a duré depuis quatre heures du matin jusqu à huit heures du soir
+
+@f35 25 Jun Cavriana E->I hdr=163-725
+<hdr 163> <hdr 725> impossible de donner des détails sur la bataille d hier TOUT MON DE ÉTAIT MORT DE FA TI GUE .ʒ LE ENNEMI SE EST RE TI RE CETTE NU IT j ignore le nombre précis de canons de drapeaux et de prisonniers j ai couché cette nuit dans la chambre où l empereur d autriche a déjeuné hier matin niel est nommé maréchal la bataille prendra le nom de solferino
+
+COVERAGE: 422 of 447 coded text tokens read (94.4%); 25 unread (22 distinct groups)
+KEY: 232 groups — 68 confirmed, 149 probable, 15 tentative

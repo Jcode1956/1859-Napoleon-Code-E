@@ -1,0 +1,35 @@
+# BnF NAF 11355 — telegrams in code "E" between Napoleon III and Empress Eugénie, June 1859.
+# Source images: https://gallica.bnf.fr/ark:/12148/btv1b52517729k
+# Format:
+#   @<folio> <date> <place> <direction> hdr=<header groups or ->
+#     E->I = Emperor to Empress (Impératrice); I->E = Empress to Emperor.
+#     hdr lists the header groups that open the telegram; they are not part of the text.
+#   Following line(s): the telegram in order.
+#     #N   = code group N
+#     #Nz  = code group N written with the ʒ-like suffix mark
+#     #N?  = group whose reading of the manuscript is uncertain
+#     plain words = text sent in clear (punctuation and capitals omitted)
+@f3 c.1 Jun Alexandrie E->I hdr=-
+rien de nouveau ce matin les choses vont bien #677 #1249 #425 #172 #1162 au revoir
+@f5 3 Jun Novare E->I hdr=-
+#865 #442 #163 #824 #204 #543 #225 j ai jeté trois ponts sur le tessin j ai un corps d armée sur la rive gauche les autrichiens sont en pleine retraite il y a eu un combat aujourd hui pendant que j y étais devant la tête de pont cela n a pas duré longtemps et chose singulière le général auger a pris un canon à l ennemi je rentre bien fatigué mais bien portant il y a tout au plus aujourd hui quatre ou cinq tués et une vingtaine de blessés au revoir
+@f9 9 Jun Milan E->I hdr=-
+aujourd hui te deum au dôme enthousiasme extraordinaire évêque officiant la garde impériale formait la haie #432 #1210? #85 #126 #708 #1132 #1290 #717 #996 #1304 #773 #890 #142 #1162 #717 #751 #717 #515 #747 #787 #1162 #54 #848 #1318 #621 #704 #717 #598 #479 #494 #65 #1261 #114 #337 #30 #323 #1294 #501 #459 #1193 #1291 #1311 #479 #297 #1346 #1261 #323 #524 #485 #753 #858 #135 #324 #933 #30 #1312 #453 #398 #910
+@f15 16 Jun Chiari E->I hdr=753
+#753 quartier impérial de covo 16 juin 1859 #702 #102 #116 #927 #115 #708 #868 #548 #721 #868 #1155 #1113 #660 #1244 #199 #858 #1226 #1376 #702 #102 #329z #926 #30 #926 #677 #1074 #310 #925 #357 #381 #708 #81 #1099 #123 #495 #656 #257 #914 #439 je vais bien au revoir
+@f17 17 Jun Travagliato E->I hdr=1098
+#1098 je couche ce soir à travagliato #858 #462 #457 #889 #1325 #751 #1232 #233 #402 #1162 #753 #708 #439 #916 #332 #323 #783 #1162 #1074 #1275 #453 #355 #1127 #1074 #708 #796 #237 #868 l état moral et physique de l armée est excellent au revoir
+@f18 18 Jun Brescia E->I hdr=504
+#504 l armée est arrivée à brescia nous ne savons pas encore #1187 #717 #329z #335 #1135 #717 #978 #1274 #323 #732 #826 #1278 #465 #323 #195 #1265 #563 #608 #888 tout va bien au revoir
+@f19 19 Jun Brescia E->I hdr=302
+#302 je suis bien #933 au milieu de mes travaux d avoir à #1109 #1074 à toutes les #1197 #1240 #1249 #1250 #666 #324 #371 #111 #615 #677 #751 #1267 #708 #908 #932 #30 #1047z #126 #808 #102 #677 #834 #773 #773 #708 #432 #1128 #398 #1118 #323 #1184 #476 #708 #1132 #323 #1102z n accepte pas #702 #367 #179 #1241 #1216 #1074 #357 #709 #112 tout ce qu on dit #398 #980z #464 #512 #717 #945 #773 #284 #1162 #647 #558 #357 #1040 #702 #531 #199 #771 s éloigne d eux sans qu il y ait besoin de chercher #1325 #197 #1162 #482 #1074 à amouvement
+@f27 23 Jun StCloud I->E hdr=-
+#677 #1227 #357 #886 #708 #323 #1385 #134 #510 #323 #702 #933 #199 #834 #479 #926 #808 #649 #834 #1385 #644 #1396 #926 #398 #943 #621 #1333 #30 #785 #1342 j écris aujourd hui par la poste
+@f29 23 Jun Montechiaro E->I hdr=163-455
+#163 #455 j ai reçu trois lettres de vous aujourd hui #702 #737 #30 #262 #702 #933 #1040 #717 #122 #1074 #773 #890 #510 #10z #670 #176 #708 #199 #770 #636 #205 #1040 #681 #124 #63 #1109 #398 #1038 #888 #464 #735 #621 #512 #1394 #1094 #453 #30 #2 #527 #125 #323 #509 #324 #933 #30 #215 #1044 #59 #773 dites au maréchal randon de mettre #357 #502 #664 #357 #1070 #323 #748 #553 #1241 #318 #688 #794 #708 #633 #85 #464 #1043 #849 #357 #882 #296 #1142 #1203 #780 #1274 #834 #10z #680 #644 #324 #1156 #323 #857 #522 #379 #803 #537 #227 #783 #255 #623 #10z #323 #248 #1240 #1249 #479 #323 #1183 #596 #621 #1162 #976 #64 #1304 #160 #622 #297 #227 #30 #748 #976 #466 #792 #863 #664 #114 #807 #902 #888 #743 #88 #976 #64 #1 #348 #623 #814 #1222 #665 #783 #26z
+@f30 24 Jun StCloud I->E hdr=-
+tout va bien ici #708 #943 #1333 #30 #785 #1342 j attends de vos nouvelles avec bien de l impatience #702 #785 #323 #323 #228 #1240? #1249 #342 #708 #293 #398 #565 #465 #1207 #522 #708 #162z #708? #1046 #379 #591 #109 #323 #506 #1265 #582
+@f32 24 Jun Cavriana E->I hdr=163-725
+#163 #725 grande bataille et grande victoire toute l armée autrichienne a donné ligne de bataille cinq lieues enlevé toutes les positions pris beaucoup de canons de drapeaux et de prisonniers #941 #323 #274 #1155 #163 #1142 #1162 autres détails impossibles la bataille a duré depuis quatre heures du matin jusqu à huit heures du soir
+@f35 25 Jun Cavriana E->I hdr=163-725
+#163 #725 impossible de donner des détails sur la bataille d hier #1293 #808 #323 #479 #814 #323 #506 #1265 #582 #10z #708 #439 #1162 #464 #1074 #1265 #1074 #214 #863 #664 j ignore le nombre précis de canons de drapeaux et de prisonniers j ai couché cette nuit dans la chambre où l empereur d autriche a déjeuné hier matin niel est nommé maréchal la bataille prendra le nom de solferino
